@@ -7,4 +7,6 @@ I can quickly adapt to new technology and software, but currently I'm working on
 
 For fun, I love learning about operating systems, compilers, networking, and low-level systems.
 I also like tinkering with hobby electronics, pc gaming, and I run a homelab :)
+
+My discord is aar10n.
 </pre>
